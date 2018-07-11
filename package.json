@@ -1,45 +1,4 @@
 {
-<<<<<<< HEAD
-  "_from": "git+https://github.com/patcho/homebridge-syno-home-mode.git",
-  "_id": "homebridge-syno-home-mode@0.1.2",
-  "_inBundle": false,
-  "_location": "/homebridge-syno-home-mode",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "homebridge-syno-home-mode@git+https://github.com/patcho/homebridge-syno-home-mode.git",
-    "name": "homebridge-syno-home-mode",
-    "escapedName": "homebridge-syno-home-mode",
-    "rawSpec": "git+https://github.com/patcho/homebridge-syno-home-mode.git",
-    "saveSpec": "git+https://github.com/patcho/homebridge-syno-home-mode.git",
-    "fetchSpec": "https://github.com/patcho/homebridge-syno-home-mode.git",
-    "gitCommittish": null
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "git+https://github.com/patcho/homebridge-syno-home-mode.git#01d6bacff92e4667b490e004004ab925eb085aec",
-  "_spec": "homebridge-syno-home-mode@git+https://github.com/patcho/homebridge-syno-home-mode.git",
-  "_where": "/homebridge",
-  "author": {
-    "name": "Patcho"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "",
-  "license": "MIT",
-  "main": "index.js",
-  "name": "homebridge-syno-home-mode",
-  "version": "0.1.2",
-  "keywords": [
-    "homebridge-plugin"
-  ],
-   "engines": {
-    "homebridge": ">=0.2.0",
-    "node": ">=0.12.0"
-    
-  }
-=======
 	"author": {
 		"name": "Patcho"
 	},
@@ -57,5 +16,4 @@
 		"homebridge": ">=0.2.0",
 		"node": ">=0.12.0"
 	}
->>>>>>> Init
 }
